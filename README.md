@@ -1,4 +1,4 @@
-## Project: Flutter App with Flask API for PDF Generation
+## Project: PDF generator for Quiz20
 
 **Objective:**
 The primary motivation behind the development of this project is to address the challenge of limited support for local languages, such as Hindi, in the Flutter framework. The project aims to provide a workaround by leveraging Python's ReportLab library to dynamically generate PDFs, facilitating seamless content presentation in local languages.
